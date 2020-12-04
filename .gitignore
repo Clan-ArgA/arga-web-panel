@@ -1,3 +1,7 @@
+.history
+*.code-workspace
+workspace.code-workspace
+
 # Logs
 logs
 *.log
