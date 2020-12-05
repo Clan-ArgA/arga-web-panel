@@ -19,8 +19,11 @@ RUN npm install
 # Copy start application script
 COPY start.sh /app/
 
+RUN ["chmod", "+x", "./start.sh"]
+
 # Start application
 CMD ./start.sh
+
 
 # Declare application port
 EXPOSE 3000
