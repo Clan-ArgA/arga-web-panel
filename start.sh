@@ -4,6 +4,8 @@
 git pull
 npm install
 
+chmod 775 -R /app/
+
 # Setup user
 PUID=${PUID:-123}
 PGID=${PGID:-123}
