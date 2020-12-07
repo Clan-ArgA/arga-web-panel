@@ -1,6 +1,6 @@
 module.exports = {
     game: 'arma3_x64', // arma3, arma2oa, arma2, arma1, cwa, ofpresistance, ofp, arma3_x64
-    path: '/home/steam/steamcmd/arma3/',
+    path: '/arma3/',
     port: 3000,
     host: '0.0.0.0', // Can be either an IP or a Hostname
     type: 'linux', // Can be either linux, windows or wine
