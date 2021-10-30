@@ -37,6 +37,10 @@ module.exports = {
     {
       username: 'shaggy',
       password: 'Shaggy51472'
+    },
+    {
+      username: 'peta',
+      password: 'wN2$dL2*eC8@sG9}wM2(iL8}nD2(jM1!'
     }
   ],
   prefix: "", // Prefix to all server names
